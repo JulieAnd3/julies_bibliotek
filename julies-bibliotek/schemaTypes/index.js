@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import books from "./books";
+
+export const schemaTypes = [books]
